@@ -8,7 +8,7 @@ def calculateTime():
     elif monkey_one == 'n' and monkey_two == 'n':
         print("Uh Oh! We're in trouble!")
     else:
-        print("Yay! We're going to have a good day")
+        print("Yay! We're going to have a good day!")
     # end assignment
 
 
